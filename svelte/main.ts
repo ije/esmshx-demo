@@ -1,3 +1,4 @@
 import App from "./App.svelte";
+import { mount } from "svelte";
 
-App(document.getElementById("root"));
+mount(App, { target: document.getElementById("root")! });
