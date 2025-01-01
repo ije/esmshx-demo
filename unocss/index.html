@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="version" content="2">
   <title>esm.sh/x unocss</title>
   <script type="importmap">
     {
@@ -11,13 +12,13 @@
       }
     }
   </script>
-  <script src="https://next.esm.sh/uno"></script>
+  <script src="https://next.esm.sh/x" main="./uno.css"></script>
 </head>
 <body>
   <div id="root"><p class="flex justify-center text-gray-400 mt8">Loading...</p></div>
   <div class="absolute bottom-5 w-full flex justify-center">
     <button class="btn">Click Me</button>
   </div>
-  <script type="module" src="https://next.esm.sh/x" main="./main.tsx"></script>
+  <script src="https://next.esm.sh/x" main="./main.tsx"></script>
 </body>
 </html>
