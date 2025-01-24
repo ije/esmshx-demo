@@ -1,6 +1,6 @@
 # Demo Apps for esm.sh/x
 
-Demo apps for https://next.esm.sh/x.
+Demo apps for https://esm.sh/x.
 
 - [React App](./react/)
 - [Preact App](./preact/)
