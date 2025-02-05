@@ -1,6 +1,6 @@
-# Demo Apps for esm.sh/x
+# esm.sh/x Demo
 
-Demo apps for [https://esm.sh/x](https://esm.sh/x).
+This is a demo repository for [esm.sh/x](https://esm.sh/x) - a _nobuild_ service for modern web development.
 
 - [React App](./react/)
 - [Preact App](./preact/)
