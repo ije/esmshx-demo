@@ -22,6 +22,8 @@ npm i -g esm.sh
 esm.sh serve react
 ```
 
+For VSCode users, we recommend using the [esm.sh extension](https://link.esm.sh/vsce) for a better development experience.
+
 ## Source Code
 
 [https://github.com/ije/esmshx-demo](https://github.com/ije/esmshx-demo)
