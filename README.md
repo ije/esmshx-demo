@@ -1,6 +1,6 @@
 # Demo Apps for esm.sh/x
 
-Demo apps for https://esm.sh/x.
+Demo apps for [https://esm.sh/x](https://esm.sh/x).
 
 - [React App](./react/)
 - [Preact App](./preact/)
@@ -8,6 +8,20 @@ Demo apps for https://esm.sh/x.
 - [Vue App](./vue/)
 - [Svelte App](./svelte/)
 
-_
+## Development
 
-[Source Code](https://github.com/ije/esmshx-demo)
+```sh
+# Clone the repo
+git clone https://github.com/ije/esmshx-demo
+cd esmshx-demo
+
+# Install esm.sh CLI
+npm i -g esm.sh
+
+# Serve a demo app in development mode
+esm.sh serve react
+```
+
+## Source Code
+
+[https://github.com/ije/esmshx-demo](https://github.com/ije/esmshx-demo)
