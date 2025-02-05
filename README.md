@@ -2,11 +2,11 @@
 
 This is a demo repository for [esm.sh/x](https://esm.sh/x) - a _nobuild_ service for modern web development.
 
-- [React App](./react/)
-- [Preact App](./preact/)
-- [Preact App with UnoCSS](./unocss/)
-- [Vue App](./vue/)
-- [Svelte App](./svelte/)
+- [React](./react/)
+- [Preact](./preact/)
+- [Preact with UnoCSS](./unocss/)
+- [Vue](./vue/)
+- [Svelte](./svelte/)
 
 ## Development
 
